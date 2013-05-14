@@ -1,0 +1,4 @@
+PokerLite
+=========
+
+Poker application 
